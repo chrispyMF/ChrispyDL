@@ -24,7 +24,7 @@ The downloader is implemented as a lightweight wrapper around `yt-dlp`.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/ChrispyDL.git
+git clone https://github.com/chrispyMF/ChrispyDL.git
 cd ChrispyDL
 pip install -r requirements.txt
 ```
