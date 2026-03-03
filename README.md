@@ -90,5 +90,4 @@ to access and download.
 
 Users are responsible for complying with the terms of service and copyright
 policies of the websites they use.
-MIT (or your preferred license)
 
